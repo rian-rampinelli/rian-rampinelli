@@ -1,11 +1,5 @@
 <h1 align="left">Hey 👋</h1>
 
-###
-
-<p align="left">Meu nome é Rian e sou estudante de Tecnologia da Informação</p>
-
-###
-
 <h2 align="left">Sobre Mim</h2>
 
 ###
